@@ -1,4 +1,3 @@
-# Symbolic Regression for Scientific Discovery
 # Core symbolic regression
 pysr>=0.16.0
 
@@ -15,6 +14,7 @@ plotly>=5.15.0
 # Materials science data (optional - for materials application)
 matminer>=0.9.0
 pymatgen>=2023.0.0
+mp-api>=0.37.0  # Materials Project API client
 
 # Notebook utilities
 ipywidgets>=8.0.0
